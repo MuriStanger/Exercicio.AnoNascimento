@@ -1,0 +1,10 @@
+p,
+div {
+    text-decoration: double;
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: lightgrey;
+}
